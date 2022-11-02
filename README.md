@@ -5,15 +5,14 @@ Esse é o meu Desafio de projeto *RECRIANDO A PÁGINA DO NETFLIX*
 
 
 
-(:link:Clique aqui para acessar)["https://Gabi-Oli.github,io/pagina-netflix]
-
+ 
 Editor de códigos utilizado:
 
 - VISUAL STUDIO CODE 
 
-Tecnologias dominadas durante todo o processo de construção do site:
+:computer: Tecnologias dominadas durante todo o processo de construção do site:
 
-= HTML
+- HTML
 - CSS
 - JAVASCRIPT
 
