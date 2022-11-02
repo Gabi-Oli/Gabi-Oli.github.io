@@ -1,4 +1,5 @@
-### Bem vindo(a) 
+### Bem vindo(a)
+ 
 Esse é o meu Desafio de projeto *RECRIANDO A PÁGINA DO NETFLIX*
 
 ![PREVIEW](netflix.png)
@@ -6,11 +7,11 @@ Esse é o meu Desafio de projeto *RECRIANDO A PÁGINA DO NETFLIX*
 
 
  
-Editor de códigos utilizado:
+## Editor de códigos utilizado:
 
 - VISUAL STUDIO CODE 
 
-:computer: Tecnologias dominadas durante todo o processo de construção do site:
+## Tecnologias dominadas durante todo o processo de construção do site:
 
 - HTML
 - CSS
