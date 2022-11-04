@@ -18,7 +18,7 @@ Esse é o meu Desafio de projeto *RECRIANDO A PÁGINA DO NETFLIX*
 - JAVASCRIPT
 
 
-## O que eu aprendi com a experiência prática colocando a mão no código:
+## O que eu aprendi com a experiência prática e colocando a mão no código:
 
 - a desenvolver um site responsivo através do flexbox, uma poderosa ferramenta de Css3 para os programadores, em que deixamos nossos elementos organizados na página, além deles se adaptarem à variados tamanhos de tela se encaixando adequadamente no seu espaço.
 - criar scripts que interagem com o html, por exemplo os ícones de botões tornando-os mais acessíveis ao público e fáceis de indentificá-los pela leitura.
