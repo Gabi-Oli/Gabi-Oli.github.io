@@ -1,8 +1,10 @@
 ### Bem vindo(a)!! :smile:
  
+ ![netflix2](https://user-images.githubusercontent.com/111095992/212792356-11407a22-7e9b-4699-93a1-f3133e4e27be.jpeg)
+
 Esse é o meu Desafio de projeto *RECRIANDO A PÁGINA DO NETFLIX*
 
-![PREVIEW](netflix.png)
+
 
 
  
